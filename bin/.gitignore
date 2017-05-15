@@ -1,4 +1,3 @@
-/bridgePattern/
-/prototype/
-/strategyPattern/
-/bridgePattern_shape/
+/BuilderPattern/
+/FacadePattern/
+/bridgePattern_sendMessage/
